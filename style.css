@@ -1,0 +1,27 @@
+.container-main{
+    display:flexbox;
+    background-color: white;
+    border: 1px solid black;
+    margin:20px 50px;
+    padding: 10px;
+}
+hr{
+    margin-top:40px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+    margin-right: 200px;
+    display: block;
+    background-color: black;
+    padding: 1px;
+    border: 2px;
+}
+.child{
+    margin-left: 80px;
+    font-family: sans-serif;
+}
+.heading{
+    color:cadetblue;
+}
+a:link { 
+    text-decoration: none; 
+  } 
